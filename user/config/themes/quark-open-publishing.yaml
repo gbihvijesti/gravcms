@@ -1,0 +1,32 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/quark-open-publishing, user/themes/quark]
+chromeless:
+  enabled: false
+display_of_git_sync_repo_link: menu
+type_of_git_sync_repo_link: view
+h5pembedrootpath: 'https://h5p.org/h5p/embed/'
+cc_license:
+  enabled: false
+  type: ccby
+  icon: false
+displaycustommenus:
+  enabled: false
+hidehomemenulink: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+git_sync_edit_note_text: 'Have a suggestion or correction?'
+dropdown:
+  enabled: false
